@@ -1,10 +1,8 @@
 package com.codility;
 
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
 
-public class PermCheckL4b {
+public class L4bPermCheck {
     public static void main(String[] args) {
         // write your code here
         int[] A = {4,5,3,2};
