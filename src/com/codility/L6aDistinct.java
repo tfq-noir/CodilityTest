@@ -19,7 +19,7 @@ public class L6aDistinct {
 class SolutionL6a {
     public static int solution(int[] A) {
         Set<Integer> store = new HashSet<>();
-        for (int a : A) {
+        for (int a : A) {  //can store/set only the distinct values
             store.add(a);
         }
 
