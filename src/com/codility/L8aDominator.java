@@ -23,7 +23,7 @@ class SolutionL8a {
             }
             else{
                 int count = map.get(A[i]); // "get" count
-                map.put(A[i], count+1);    // count++
+                map.put(A[i], count+1);    // count++ increasing the counting by 1
             }
         }
 
